@@ -1,0 +1,11 @@
+.button  {
+        color: white;
+        background: #0594e8;
+        border: 0;
+        padding: 10px;
+}
+.form-input-text {
+    margin: 0px; 
+    height: 109px; 
+    width: 342px;
+}
